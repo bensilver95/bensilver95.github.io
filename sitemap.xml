@@ -2,49 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://benjamin-silver.com/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/categories/</loc>
+    <loc>https://example.org/blog/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/2020/12/01/hello-r-markdown/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/tags/plot/</loc>
+    <loc>https://example.org/blog/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/post/</loc>
+    <loc>https://example.org/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/categories/r/</loc>
+    <loc>https://example.org/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/tags/r-markdown/</loc>
+    <loc>https://example.org/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/tags/regression/</loc>
+    <loc>https://example.org/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/2016/12/30/a-plain-markdown-post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <loc>https://example.org/tags/css/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>https://example.org/tags/html/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/other/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>https://example.org/tags/markdown/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/teaching/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>https://example.org/blog/markdown-syntax-guide/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/tuts_resources/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>https://example.org/tags/math/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://benjamin-silver.com/research/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>https://example.org/blog/math-typesetting/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/blog/rich-text/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/shortcodes/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/themes/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/hugo/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/blog/example-post/</loc>
+    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/about/about/</loc>
+  </url><url>
+    <loc>https://example.org/research/research/</loc>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
+    <loc>https://example.org/research/</loc>
   </url>
 </urlset>
