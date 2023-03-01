@@ -38,10 +38,10 @@
     <loc>http://example.org/research/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/resources/</loc>
+    <loc>http://example.org/teaching/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/teaching/</loc>
+    <loc>http://example.org/tuts/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://example.org/templates/articles/</loc>
