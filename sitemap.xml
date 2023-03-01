@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://benjamin-silver.com/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/templates/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://benjamin-silver.com/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://benjamin-silver.com/templates/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/plot/</loc>
+    <loc>https://benjamin-silver.com/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/r/</loc>
+    <loc>https://benjamin-silver.com/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/r-markdown/</loc>
+    <loc>https://benjamin-silver.com/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/regression/</loc>
+    <loc>https://benjamin-silver.com/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://benjamin-silver.com/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/templates/</loc>
+    <loc>https://benjamin-silver.com/templates/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://benjamin-silver.com/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/misc/</loc>
+    <loc>https://benjamin-silver.com/misc/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/research/</loc>
+    <loc>https://benjamin-silver.com/research/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/teaching/</loc>
+    <loc>https://benjamin-silver.com/teaching/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/tuts/</loc>
+    <loc>https://benjamin-silver.com/tuts/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/templates/articles/</loc>
+    <loc>https://benjamin-silver.com/templates/articles/</loc>
   </url><url>
-    <loc>http://example.org/templates/contact/</loc>
+    <loc>https://benjamin-silver.com/templates/contact/</loc>
   </url><url>
-    <loc>http://example.org/templates/projects/math-brain-trainer/</loc>
+    <loc>https://benjamin-silver.com/templates/projects/math-brain-trainer/</loc>
   </url><url>
-    <loc>http://example.org/templates/projects/</loc>
+    <loc>https://benjamin-silver.com/templates/projects/</loc>
   </url><url>
-    <loc>http://example.org/templates/articles/article/</loc>
+    <loc>https://benjamin-silver.com/templates/articles/article/</loc>
   </url>
 </urlset>
