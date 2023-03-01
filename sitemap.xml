@@ -2,72 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://example.org/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/</loc>
+    <loc>http://example.org/templates/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://example.org/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/plot/</loc>
+    <loc>http://example.org/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/r/</loc>
+    <loc>http://example.org/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/r-markdown/</loc>
+    <loc>http://example.org/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/regression/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://example.org/templates/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/css/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/about/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://example.org/tags/html/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/misc/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://example.org/tags/markdown/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/research/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://example.org/blog/markdown-syntax-guide/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/resources/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://example.org/tags/math/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/teaching/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://example.org/blog/math-typesetting/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/templates/articles/</loc>
   </url><url>
-    <loc>https://example.org/blog/rich-text/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/templates/contact/</loc>
   </url><url>
-    <loc>https://example.org/tags/shortcodes/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/templates/projects/math-brain-trainer/</loc>
   </url><url>
-    <loc>https://example.org/tags/themes/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>http://example.org/templates/projects/</loc>
   </url><url>
-    <loc>https://example.org/tags/hugo/</loc>
-    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/blog/example-post/</loc>
-    <lastmod>2020-06-04T09:19:29-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/about/about/</loc>
-  </url><url>
-    <loc>https://example.org/research/research/</loc>
-  </url><url>
-    <loc>https://example.org/about/</loc>
-  </url><url>
-    <loc>https://example.org/research/</loc>
+    <loc>http://example.org/templates/articles/article/</loc>
   </url>
 </urlset>
