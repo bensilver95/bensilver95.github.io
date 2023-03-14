@@ -6,5 +6,32 @@
     <description>Recent content on Ben Silver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://benjamin-silver.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic motivated perceptions of other people</title>
+      <link>https://benjamin-silver.com/research/gradschool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/research/gradschool/</guid>
+      <description>How would you react if you found out that your partner has been unfaithful? Or that the slacker in your high school class is now immensely successful? We make predictions about how people will act all the time - what happens when those predictions are wrong? In order to form cohesive representations of others, we often need to integrate conflicting information about them. Furthermore, our pre-existing feelings towards these people, as well as our motivations and goals, influence how and when we update our beliefs about them.</description>
+    </item>
+    
+    <item>
+      <title>Reducing the impacts of motion and physiological noise during fMRI</title>
+      <link>https://benjamin-silver.com/research/motion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/research/motion/</guid>
+      <description>Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, fMRI signal is far from perfect, and is influenced by things like how much the participant moves and even how and when they breathe.</description>
+    </item>
+    
+    <item>
+      <title>Restricted interests in Autism Spectrum Disorder</title>
+      <link>https://benjamin-silver.com/research/asd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/research/asd/</guid>
+      <description>We all have things that we&amp;rsquo;re interested in: Hobbies, favorite tv shows, topic areas we can&amp;rsquo;t learn enough about. Most of the time, we are able to inhibit our desires related to our interests - talking about them, thinking about them - when it is socially appropriate. Some children and adults with Autism Spectrum Disorder (ASD) are less able to modulate their thought patterns to match what is appropriate for the situation.</description>
+    </item>
+    
   </channel>
 </rss>

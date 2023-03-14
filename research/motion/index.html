@@ -5,13 +5,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Ben Silver</title>
+<title>Reducing the impacts of motion and physiological noise during fMRI | Ben Silver</title>
 <meta name="keywords" content="" />
-<meta name="description" content="Here I&rsquo;ve compiled a list of tutorials and online resources (listed in alphabetical order) that I have found useful over the years. I did not make any of these resources; I&rsquo;m very grateful for those who did.
-Andy&rsquo;s Brain Book: neuroimaging tutorials, great for absolute beginners Blogdown book: how to make a website (such as this one) using Hugo and Blogdown. Very useful if you&rsquo;d like to use Github Pages for your website.">
+<meta name="description" content="Projects I worked on as a lab manager, primarily with Jonathan Power">
 <meta name="author" content="">
-<link rel="canonical" href="https://benjamin-silver.com/tuts/" />
+<link rel="canonical" href="https://benjamin-silver.com/research/motion/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.a1dc2d10c5562252f7d1e1ce9353bb453fa1a30d9954fd5749f6042e87d7c741.css" integrity="sha256-odwtEMVWIlL30eHOk1O7RT&#43;how2ZVP1XSfYELofXx0E=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://benjamin-silver.com/images/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://benjamin-silver.com/images/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://benjamin-silver.com/images/favicon-32x32.png">
@@ -19,7 +20,6 @@ Andy&rsquo;s Brain Book: neuroimaging tutorials, great for absolute beginners Bl
 <link rel="mask-icon" href="https://benjamin-silver.com/images/painting.jpg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://benjamin-silver.com/tuts/index.xml">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@ Andy&rsquo;s Brain Book: neuroimaging tutorials, great for absolute beginners Bl
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -119,7 +119,7 @@ Andy&rsquo;s Brain Book: neuroimaging tutorials, great for absolute beginners Bl
             </li>
             <li>
                 <a href="https://benjamin-silver.com/tuts" title="Resources">
-                    <span class="active">Resources</span>
+                    <span>Resources</span>
                 </a>
             </li>
             <li>
@@ -130,27 +130,38 @@ Andy&rsquo;s Brain Book: neuroimaging tutorials, great for absolute beginners Bl
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<div class="post-content">
-<p>Here I&rsquo;ve compiled a list of tutorials and online resources (listed in alphabetical order) that I have found useful over the years. I did not make any of these resources; I&rsquo;m very grateful for those who did.</p>
-<ul>
-<li><a href="https://andysbrainbook.readthedocs.io/en/latest/">Andy&rsquo;s Brain Book</a>: neuroimaging tutorials, great for absolute beginners</li>
-<li><a href="https://bookdown.org/yihui/blogdown/">Blogdown book</a>: how to make a website (such as this one) using Hugo and Blogdown. Very useful if you&rsquo;d like to use Github Pages for your website.</li>
-<li><a href="https://ctl.columbia.edu/resources-and-technology/resources/">Columbia CTL Resources</a>: a long list of resources and guides for effective and inclusive teaching.</li>
-<li><a href="https://dartbrains.org/content/intro.html">Dartbrains</a>: clear tutorials for neuroimaging analysis in Python</li>
-<li><a href="https://arokem.github.io/git-course/">Git/Github tutorial</a>: version control, branching, collaborating, etc.</li>
-<li>Multilevel modeling tutorial <a href="/files/bw_lme_tutorial1.pdf">Part 1</a> and <a href="/files/bw_lme_tutorial2.pdf">Part 2</a>: mixed effects models in R</li>
-<li><a href="https://www.youtube.com/c/mumfordbrainstats">Mumford Brain Stats</a>: Youtube channel about neuroimaging data and analysis</li>
-<li><a href="https://neurohackademy.org/course_type/lectures/?neurohack_year=2022">Neurohackademy</a>: an annual summer academy about computational skills and neuroscience. All materials and lectures are freely available</li>
-<li><a href="https://shiny.rstudio.com/tutorial/">Shiny</a>: R pakage for making interactive data exploration tools</li>
-<li><a href="https://simpletransformers.ai">Simple Transformers</a>: Python package for using transformer models with tons of tutorials</li>
-<li><a href="https://columbia-sipps.github.io/workshops2022/coding/">SIPPS R tutorials</a>: a series of tutorials on the fundamentals of data analysis in R, taken from a grad student-run summer program at Columbia.</li>
-<li><a href="https://statsthinking21.org">Statistical Thinking for the 21st Century</a>: an excellent and practical textbook about statistics, with tutorials in R and Python</li>
-<li><a href="https://github.com/rfordatascience/tidytuesday">Tidy Tuesday</a>: weekly datasets. Great for building tutorials or practice with data analysis or plotting in R</li>
-<li><a href="https://osf.io/n8pc3/">The Writing Workshop</a>: how to write, how to read, how to organize your life in academia</li>
-</ul>
+<main class="main">
 
-</div>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Reducing the impacts of motion and physiological noise during fMRI
+    </h1>
+    <div class="post-description">
+      Projects I worked on as a lab manager, primarily with Jonathan Power
+    </div>
+    <div class="post-meta"></div>
+  </header> 
+  <div class="post-content">
+  <hr>
+<p>Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, <strong>fMRI signal is far from perfect</strong>, and is influenced by things like how much the participant moves and even how and when they breathe.</p>
+<p>Improving the fMRI signal to noise ratio can happen during the scan, with motion reduction measurements like customized head molds or FIRMM software, or after the scan, with denoising techniques that take into account respiratory patterns. In one study, we demonstrated that customized head molds reduce motion in participants 7-28 years old. In a set of several other studies, we argued that <strong>respiratory patterns during a scan create noise, characterized different types of respiratory patterns, and demonstrated how certain breathing patterns are sex-biased</strong>, which could lead to sex-biased neural findings.</p>
+<p><img loading="lazy" src="/images/respiration.jpg" alt=""  />
+
+<em>Different types of breathing patterns in Human Connectome Project subjects. From Power et al. 2020.</em></p>
+<h3 id="related-work">Related work</h3>
+<p>Lynch, C.J., Voss, H., Silver, B.M., Power, J.D. (2021). On measuring head motion and effects of headmolds during fMRI. Neuroimage. DOI: <a href="https://doi.org/10.1016/j.neuroimage.2020.117494">https://doi.org/10.1016/j.neuroimage.2020.117494</a></p>
+<p>Lynch, C.J., Silver, B.M., Dubin, M.J., Martin, A., Jones, R.M., Power, J.D. (2020). A prevalent, sex-biased respiratory pattern influences functional connectivity MRI in young adults. Nature Communications. DOI: <a href="https://doi.org/10.1038/s41467-020-18974-9">https://doi.org/10.1038/s41467-020-18974-9</a></p>
+<p>Power, J.D., Lynch, C. J., Dubin, M.J., Silver, B.M., Martin, A., Jones, R.M. (2019). Characteristics of respiratory measures in young adults scanned at rest, including systematic changes and “missed” deep breaths. Neuroimage. DOI: <a href="https://doi.org/10.1016/j.neuroimage.2019.116234">https://doi.org/10.1016/j.neuroimage.2019.116234</a></p>
+<p>Power, J.D., Lynch, C.J., Silver, B.M., Dubin, M.J., Martin, A., Jones, R.M. (2019). Distinctions among real and apparent respiratory motions in human fMRI data. Neuroimage. DOI: <a href="https://doi.org/10.1016/j.neuroimage.2019.116041">https://doi.org/10.1016/j.neuroimage.2019.116041</a></p>
+<p>Power, J.D., Silver, B.M., Silverman, M.R., Ajodan, E.L., Bos, D.J., Jones, R.M. (2019). Customized head molds reduce motion during resting state fMRI. Neuroimage. DOI: <a href="https://doi.org/10.1016/j.neuroimage.2019.01.016">https://doi.org/10.1016/j.neuroimage.2019.01.016</a></p>
+
+  </div>
+
+  <footer class="post-footer">
+  </footer>
+</article>
     </main>
     
 <footer class="footer">
@@ -217,6 +228,53 @@ Andy&rsquo;s Brain Book: neuroimaging tutorials, great for absolute beginners Bl
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 
