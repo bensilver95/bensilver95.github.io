@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://benjamin-silver.com/teaching/responsibilities/</loc>
-  </url><url>
-    <loc>https://benjamin-silver.com/teaching/statement/</loc>
-  </url><url>
     <loc>https://benjamin-silver.com/research/gradschool/</loc>
   </url><url>
+    <loc>https://benjamin-silver.com/teaching/responsibilities/</loc>
+  </url><url>
     <loc>https://benjamin-silver.com/research/motion/</loc>
+  </url><url>
+    <loc>https://benjamin-silver.com/teaching/statement/</loc>
   </url><url>
     <loc>https://benjamin-silver.com/research/asd/</loc>
   </url><url>
@@ -46,9 +46,6 @@
     <loc>https://benjamin-silver.com/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://benjamin-silver.com/misc/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://benjamin-silver.com/research/</loc>
     <priority>0</priority>
   </url><url>
@@ -56,6 +53,9 @@
     <priority>0</priority>
   </url><url>
     <loc>https://benjamin-silver.com/tuts/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://benjamin-silver.com/writing/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://benjamin-silver.com/templates/articles/</loc>

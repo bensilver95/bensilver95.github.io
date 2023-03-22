@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://benjamin-silver.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Summary of Teaching Roles and Responsibilities</title>
-      <link>https://benjamin-silver.com/teaching/responsibilities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://benjamin-silver.com/teaching/responsibilities/</guid>
-      <description>Curriculum developer and co-instructor BRAINYAC Terms: January 2020-August 2022 Lead Instructor: Diana Li Course Details: BRAINYAC is a program aimed at high school students from underrepresented backgrounds to provide an opportunity to learn neuroscience and conduct science research. Each year, a cohort of 15-20 students is admitted. In the spring, students come to Columbia on Saturday mornings to learn neuroscience and research skills. Activities include a sheep brain dissection, wet-lab skills such as pipetting and dilutions, and Python tutorials.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Statements</title>
-      <link>https://benjamin-silver.com/teaching/statement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://benjamin-silver.com/teaching/statement/</guid>
-      <description>[Under Construction]</description>
-    </item>
-    
-    <item>
       <title>Dynamic motivated perceptions of other people</title>
       <link>https://benjamin-silver.com/research/gradschool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,12 +17,30 @@
     </item>
     
     <item>
+      <title>Summary of Teaching Roles and Responsibilities</title>
+      <link>https://benjamin-silver.com/teaching/responsibilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/responsibilities/</guid>
+      <description>Curriculum developer and co-instructor BRAINYAC Terms: January 2020-August 2022 Lead Instructor: Diana Li Course Details: BRAINYAC is a program aimed at high school students from underrepresented backgrounds to provide an opportunity to learn neuroscience and conduct science research. Each year, a cohort of 15-20 students is admitted. In the spring, students come to Columbia on Saturday mornings to learn neuroscience and research skills. Activities include a sheep brain dissection, wet-lab skills such as pipetting and dilutions, and Python tutorials.</description>
+    </item>
+    
+    <item>
       <title>Reducing the impacts of motion and physiological noise during fMRI</title>
       <link>https://benjamin-silver.com/research/motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benjamin-silver.com/research/motion/</guid>
       <description>Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, fMRI signal is far from perfect, and is influenced by things like how much the participant moves and even how and when they breathe.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Statements</title>
+      <link>https://benjamin-silver.com/teaching/statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/statement/</guid>
+      <description>[Under Construction]</description>
     </item>
     
     <item>
