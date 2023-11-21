@@ -16,6 +16,16 @@
     </item>
     
     <item>
+      <title>Teaching feedback</title>
+      <link>https://benjamin-silver.com/teaching/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/feedback/</guid>
+      <description>Included on this page is student feedback from courses in which I taught my own lab section. I have taught one section of a Research Methods class with Professor Niall Bolger on Zoom (during COVID-19), and three sections (over two semesters) of a Research Methods class with Professor Kevin Ochsner, in person.
+I divide my feedback into two sections, based on feedback topic. For each section, I provide a brief note about why this topic of feedback is important to me, followed by several quotes from student evaluations.</description>
+    </item>
+    
+    <item>
       <title>Teaching Statements</title>
       <link>https://benjamin-silver.com/teaching/statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,12 +44,13 @@
     </item>
     
     <item>
-      <title>Teaching Feedback</title>
-      <link>https://benjamin-silver.com/teaching/feedback/</link>
+      <title>Original Syllabus</title>
+      <link>https://benjamin-silver.com/teaching/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjamin-silver.com/teaching/feedback/</guid>
-      <description>[Under Construction]</description>
+      <guid>https://benjamin-silver.com/teaching/syllabus/</guid>
+      <description>As part of the Columbia CTL Innovative Course Design Seminar, I created a course from scratch.
+The course focuses on the intersection between Psychology research and the Internet. The first half of the course explores how the Internet can serve as a new tool/methodology/data source to ask classic psychology questions. The midterm assignment asks students to create a programming tutorial that explains how to access and work with one type of Internet data (i.</description>
     </item>
     
   </channel>
