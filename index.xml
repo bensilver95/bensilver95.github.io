@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://benjamin-silver.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Motivated impressions and perceptions of other people</title>
-      <link>https://benjamin-silver.com/research/gradschool/</link>
+      <link>https://benjamin-silver.com/research/beliefs_others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjamin-silver.com/research/gradschool/</guid>
+      <guid>https://benjamin-silver.com/research/beliefs_others/</guid>
       <description>How would you react if you found out that your partner has been unfaithful? Or that the slacker in your high school class is now immensely successful? We make predictions about how people will act all the time - what happens when those predictions are wrong? In order to form cohesive representations of others, we often need to integrate conflicting information about them. Furthermore, our pre-existing feelings towards these people, as well as our motivations and goals, influence how and when we update our beliefs about them.</description>
     </item>
     
@@ -22,16 +22,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benjamin-silver.com/teaching/responsibilities/</guid>
-      <description>Curriculum developer and (co-)instructor Psychology and the Internet Term: Fall 2024 Lead Instructor: Me! Course Details: The course focuses on the intersection between Psychology research and the Internet. The first half of the course explores how the Internet can serve as a new tool/methodology/data source to ask classic psychology questions. The midterm assignment asks students to create a programming tutorial that explains how to access and work with one type of Internet data (i.</description>
+      <description>Instructor of record Psychology and the Internet Term: Fall 2024 Lead Instructor: Me! Course Details: The course focuses on the intersection between Psychology research and the Internet. The first half of the course explores how the Internet can serve as a new tool/methodology/data source to ask classic psychology questions. The midterm assignment asks students to create a programming tutorial that explains how to access and work with one type of Internet data (i.</description>
     </item>
     
     <item>
-      <title>Reducing the impacts of motion and physiological noise during fMRI</title>
-      <link>https://benjamin-silver.com/research/motion/</link>
+      <title>Motivated self-perception over time</title>
+      <link>https://benjamin-silver.com/research/beliefs_self/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjamin-silver.com/research/motion/</guid>
-      <description>Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, fMRI signal is far from perfect, and is influenced by things like how much the participant moves and even how and when they breathe.</description>
+      <guid>https://benjamin-silver.com/research/beliefs_self/</guid>
+      <description>[Under construction]
+It&amp;rsquo;s also possible to update one&amp;rsquo;s beliefs about oneself: What did we used to be like, and when/how/why did we change? In this study, I investigated how self-views, and memory for previous self-views, changed in response to the 2020 U.S. presidential election.
+Silver, B.M., Meyer, M.L., Davachi, L., Ochsner, K.N. (under review). “Did I really used to be like that?” Self-views and memory across the 2020 U.S. presidential election.</description>
     </item>
     
     <item>
@@ -45,12 +47,30 @@ I divide my feedback into two sections, based on feedback topic. For each sectio
     </item>
     
     <item>
-      <title>Teaching Statements</title>
+      <title>Teaching/Diversity Statements</title>
       <link>https://benjamin-silver.com/teaching/statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benjamin-silver.com/teaching/statement/</guid>
-      <description>[Under Construction]</description>
+      <description>You can find a PDF of my teaching statement here. You can find a PDF of my diversity statement here. </description>
+    </item>
+    
+    <item>
+      <title>Motivated beliefs online</title>
+      <link>https://benjamin-silver.com/research/beliefs_online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/research/beliefs_online/</guid>
+      <description>[Under construction]</description>
+    </item>
+    
+    <item>
+      <title>Reducing the impacts of motion and physiological noise during fMRI</title>
+      <link>https://benjamin-silver.com/research/motion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/research/motion/</guid>
+      <description>Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, fMRI signal is far from perfect, and is influenced by things like how much the participant moves and even how and when they breathe.</description>
     </item>
     
     <item>
@@ -68,7 +88,8 @@ I divide my feedback into two sections, based on feedback topic. For each sectio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benjamin-silver.com/teaching/examples/</guid>
-      <description>[Under Construction]</description>
+      <description>On this page you&amp;rsquo;ll find two sample teaching materials that are representative of what I use in the classroom. For each material, I&amp;rsquo;ve included some annotations to provide insight into my thought process when creating them.
+To see an example of a coding tutorial, click here. To see an example of my slides, click here. </description>
     </item>
     
     <item>
@@ -77,9 +98,8 @@ I divide my feedback into two sections, based on feedback topic. For each sectio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://benjamin-silver.com/teaching/syllabus/</guid>
-      <description>In Fall 2024, I will be teaching an original undergraduate seminar, via the Columbia Teaching Scholars program.
-You can view an interactive version of the syllabus here. Alternatively, you can view a rough draft I made as part of the Columbia CTL Innovative Course Design Seminar (ICDS), with annotations.
-The course focuses on the intersection between Psychology research and the Internet. The first half of the course explores how the Internet can serve as a new tool/methodology/data source to ask classic psychology questions.</description>
+      <description>In Fall 2024, I&amp;rsquo;m teaching an original undergraduate seminar, via the Columbia Teaching Scholars program.
+You can view an interactive version of the syllabus here. Certain elements of the syllabus (such as some course topics and policies) were intentionally kept open to incorporate student input and so were changed once the semester began. You can view the original version of the syllabus, without student input, here . Alternatively, you can view a rough draft I made as part of the Columbia CTL Innovative Course Design Seminar (ICDS), with annotations.</description>
     </item>
     
     <item>
