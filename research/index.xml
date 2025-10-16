@@ -7,30 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://benjamin-silver.com/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Motivated belief change</title>
-      <link>https://benjamin-silver.com/research/belief_updating/</link>
+      <title>Impression formation and updating</title>
+      <link>https://benjamin-silver.com/research/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjamin-silver.com/research/belief_updating/</guid>
-      <description>Motivated impressions for other people How would you react if you found out that your partner has been unfaithful? Or that the slacker in your high school class is now immensely successful? We make predictions about how people will act all the time - what happens when those predictions are wrong? In order to form cohesive representations of others, we often need to integrate conflicting information about them. Furthermore, our pre-existing feelings towards these people, as well as our motivations and goals, influence how and when we update our beliefs about them.</description>
+      <guid>https://benjamin-silver.com/research/others/</guid>
+      <description>How would you react if you found out that your partner has been unfaithful? Or that the slacker in your high school class is now immensely successful? We make predictions about how people will act all the time - what happens when those predictions are wrong? In order to form cohesive representations of others, we often need to integrate conflicting information about them. Furthermore, our pre-existing feelings towards these people, as well as our motivations and goals, influence how and when we update our beliefs about them.</description>
     </item>
     
     <item>
-      <title>Reducing the impacts of motion and physiological noise during fMRI</title>
-      <link>https://benjamin-silver.com/research/motion/</link>
+      <title>Human behavior in the digital sphere</title>
+      <link>https://benjamin-silver.com/research/internet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjamin-silver.com/research/motion/</guid>
-      <description>Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, fMRI signal is far from perfect, and is influenced by things like how much the participant moves and even how and when they breathe.</description>
+      <guid>https://benjamin-silver.com/research/internet/</guid>
+      <description>Have you ever changed your beliefs because of something you read online?
+The online world is filled with information - most true, some not - and our motivations impact whether and how we incorporate that information into our world view. I&amp;rsquo;m interested in how we can apply models of motivated belief change about other people to information encountered in the online world. In addition, I&amp;rsquo;m interested in what tools or aspects of the online world can we target to most effectively stop the spread of misinformation.</description>
     </item>
     
     <item>
-      <title>Restricted interests in Autism Spectrum Disorder</title>
-      <link>https://benjamin-silver.com/research/asd/</link>
+      <title>Changing self-perceptions</title>
+      <link>https://benjamin-silver.com/research/self/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://benjamin-silver.com/research/asd/</guid>
-      <description>We all have things that we&amp;rsquo;re interested in: Hobbies, favorite tv shows, topic areas we can&amp;rsquo;t learn enough about. Most of the time, we are able to inhibit our desires related to our interests - talking about them, thinking about them - when it is socially appropriate. Some children and adults with Autism Spectrum Disorder (ASD) are less able to modulate their thought patterns to match what is appropriate for the situation.</description>
+      <guid>https://benjamin-silver.com/research/self/</guid>
+      <description>Is the person you are now the person you were five years ago?
+It&amp;rsquo;s possible to update one&amp;rsquo;s beliefs about oneself: What did we used to be like, and when/how/why did we change? The self-concept can change in response to any number of events: significant personal events such as entering college, or large societal events like a presidential election. Different types of events will cause changes to different facets of the self-concept.</description>
+    </item>
+    
+    <item>
+      <title>Older projects</title>
+      <link>https://benjamin-silver.com/research/older/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/research/older/</guid>
+      <description>Reducing impacts of motion and physiological noise during fMRI Functional magnetic resonance imaging (fMRI) has changed psychology and neuroscience - the technology has made it possible to visualize the neural effects of both external stimuli, such as images or videos, and internal stimuli, such as thoughts or mental images. However, as all fMRI researchers know, fMRI signal is far from perfect, and is influenced by things like how much the participant moves and even how and when they breathe.</description>
     </item>
     
   </channel>
