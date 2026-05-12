@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Silver</title>
+    <link>https://benjamin-silver.com/teaching/</link>
+    <description>Recent content on Ben Silver</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://benjamin-silver.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summary of Teaching Roles and Responsibilities</title>
+      <link>https://benjamin-silver.com/teaching/responsibilities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/responsibilities/</guid>
+      <description>Instructor of record Research Methods: Data Science, Justice, and Social Change Term: Fall 2025 Lead Instructor: Me! Course Details: This course provides the rigorous data science training and core content knowledge students need to use data science to effect policy changes that promote a more just society. To explore these topics, students engage in in-class discussions on the intersections between psychology and justice. Students also conduct their own research project by analyzing a found dataset, with a focus on justice-oriented outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Teaching feedback</title>
+      <link>https://benjamin-silver.com/teaching/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/feedback/</guid>
+      <description>Included on this page is student feedback from five courses:
+Research Methods: Data Science, Justice, and Social Change; developed course and was instructor of record (Fall 2025) Psychology and the Internet; developed course and was instructor of record (Fall 2024) Research Methods: Social Cognition and Emotion; lab section instructor/TA to Professor Kevin Ochsner (two sections in Fall 2022 and one section in Spring 2022) Research Methods: Social and Personality; lab section instructor/TA to Professor Niall Bolger (Spring 2021, on Zoom during COVID-19) I divide my feedback into two sections, based on feedback topic.</description>
+    </item>
+    
+    <item>
+      <title>Teaching/Diversity Statements</title>
+      <link>https://benjamin-silver.com/teaching/statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/statement/</guid>
+      <description>You can find a PDF of my teaching statement here. You can find a PDF of my diversity statement here. </description>
+    </item>
+    
+    <item>
+      <title>Sample teaching materials</title>
+      <link>https://benjamin-silver.com/teaching/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/examples/</guid>
+      <description>On this page you&amp;rsquo;ll find two sample teaching materials that are representative of what I use in the classroom. For each material, I&amp;rsquo;ve included some annotations to provide insight into my thought process when creating them.
+To see an example of a coding tutorial, click here. To see an example of my slides, click here. </description>
+    </item>
+    
+    <item>
+      <title>Original Syllabi</title>
+      <link>https://benjamin-silver.com/teaching/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benjamin-silver.com/teaching/syllabus/</guid>
+      <description>Psychology and the Internet In Fall 2024, I taught an original undergraduate seminar called Psychology and the Internet, via the Columbia Teaching Scholars program.
+You can view an interactive version of the syllabus here. Certain elements of the syllabus (such as some course topics and policies) were intentionally kept open to incorporate student input and so were changed once the semester began. You can view the original version of the syllabus, without student input, here.</description>
+    </item>
+    
+  </channel>
+</rss>
